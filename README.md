@@ -40,6 +40,7 @@ Here are some show cases of this game.
 
 - Press `:q` to save and quit the game.
 
+![Demo](assets/demo/demo0.mov)
 
 ## Improvement
 
@@ -49,4 +50,4 @@ Here are some show cases of this game.
 
 - There are plenty of unused space due to the algorithm to generate the dungeon.
 
-- This game is very simple and lacking variety, probably can add more elements to the dungeon such as adding some monsters. 
+- This game is very simple and lacking variety, probably can add more elements to the dungeon such as adding some monsters.
