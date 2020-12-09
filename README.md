@@ -40,8 +40,6 @@ Here are some show cases of this game.
 
 - Press `:q` to save and quit the game.
 
-![Demo](assets/demo/demo0.mov)
-
 ## Improvement
 
 - The game will only end the player find the switch first then find the door.
